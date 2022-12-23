@@ -1,10 +1,10 @@
 ---
 :lessons:
-- :id: 233720
-  :course_id: 6602
-  :canvas_url: https://learning.flatironschool.com/courses/6602/pages/comparisons-in-javascript
-  :type: page
 - :id: 239991
   :course_id: 6638
   :canvas_url: https://learning.flatironschool.com/courses/6638/pages/comparisons-in-javascript
+  :type: page
+- :id: 240924
+  :course_id: 6602
+  :canvas_url: https://learning.flatironschool.com/courses/6602/pages/comparisons-in-javascript
   :type: page
